@@ -1,2 +1,6 @@
 require "fun_facts/version"
 require "fun_facts/cli"
+require "fun_facts/scrapper"
+require "nokogiri"
+require "open-uri"
+#require "launchy"

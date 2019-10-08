@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require "fun_facts"
+require "fun_fact/scrapper"
 
 FunFacts::CLI.new.run
