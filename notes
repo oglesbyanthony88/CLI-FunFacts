@@ -1,0 +1,6 @@
+Fun facts
+- has a description - list of facts
+- has a source - website url---|
+- has a link to source---------|
+- when user enters the number of fact they want source 
+from the webpage opens in default browser -- using ruby gem "launchy"
